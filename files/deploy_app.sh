@@ -13,6 +13,7 @@ cat << EOM > /var/www/html/index.html
   <center><h2>Meow World!</h2></center>
   Welcome to ${PREFIX}'s app.
   I'm israel dahan Wellcome.
+  
   <!-- END -->
 
   </div>
